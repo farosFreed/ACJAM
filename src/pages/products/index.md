@@ -80,7 +80,7 @@ pricing:
         - One or two varieties of beans
       plan: Small
       price: "15"
-      productid: price_1HeqXQH8t9Aa34yI5tWiIU5E
+      productid: price_1Hgb7nH8t9Aa34yI0lSj0bXi
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
