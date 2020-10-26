@@ -88,5 +88,5 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: "50"
-      productid: price_1HeqnrH8t9Aa34yIb1RlF0vz
+      productid: price_1Hgb7nH8t9Aa34yI0lSj0bXi
 ---
