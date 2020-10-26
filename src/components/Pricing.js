@@ -1,6 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+import Checkout from "../components/checkout"
+
 const Pricing = ({ data }) => (
   <div className="columns">
     {data.map((price) => (
@@ -20,6 +22,7 @@ const Pricing = ({ data }) => (
               </li>
             ))}
           </ul>
+          <Checkout />
         </section>
       </div>
     ))}
