@@ -79,12 +79,14 @@ pricing:
         - Green or roasted beans
         - One or two varieties of beans
       plan: Small
-      price: "50"
+      price: "15"
+      productid: price_1HeqXQH8t9Aa34yI5tWiIU5E
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: "80"
+      price: "50"
+      productid: price_1HeqnrH8t9Aa34yIb1RlF0vz
 ---
